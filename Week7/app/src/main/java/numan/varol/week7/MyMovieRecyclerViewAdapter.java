@@ -8,15 +8,8 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.TextView;
 
-import numan.varol.week7.placeholder.PlaceholderContent.PlaceholderItem;
-import numan.varol.week7.databinding.FragmentMovieBinding;
-
 import java.util.List;
 
-/**
- * {@link RecyclerView.Adapter} that can display a {@link PlaceholderItem}.
- * TODO: Replace the implementation with code for your data type.
- */
 public class MyMovieRecyclerViewAdapter extends RecyclerView.Adapter<MyMovieRecyclerViewAdapter.ViewHolder> {
 
     private final List<Movie> mValues;

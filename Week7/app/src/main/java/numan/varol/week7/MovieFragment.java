@@ -19,7 +19,6 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
-import numan.varol.week7.placeholder.PlaceholderContent;
 
 /**
  * A fragment representing a list of Items.
